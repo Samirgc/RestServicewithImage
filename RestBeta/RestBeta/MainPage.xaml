@@ -13,7 +13,7 @@
 
                         <StackLayout Orientation="Horizontal"
 							     Margin="12">
-                            <!--<Image Source="{Binding url}"></Image>-->
+                            <Image Source="{Binding url}"></Image>
                             <Label Text="{Binding title}"></Label>
                         </StackLayout>
 
